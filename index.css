@@ -1,0 +1,158 @@
+
+/* 전역적으로 사용할 CSS 변수 설정 */
+:root {
+    --kor-color:rgb(78, 78, 78);
+    --eng-color:rgb(163, 163, 163);
+}
+
+
+body{
+    margin: 0px;
+    background-color: black;
+    background-color: black; /* 배경을 검은색으로 설정 */
+    color: white; /* 글씨를 흰색으로 설정 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+.quote-container {
+    max-width: 80%;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    max-width: 40rem;
+    word-wrap: break-word; /* 긴 단어가 있을 때 줄바꿈 */
+    overflow-wrap: break-word; /* 동일한 기능 */
+}
+
+.quote-container.hasImg{
+    padding-left: 500px;
+}
+
+#content{
+    margin-bottom: 40px;
+    max-width: 40rem;
+}
+
+#who{
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 40rem;
+}
+
+img {
+    position: fixed;
+    left: 15%;
+    top: 50%;
+    max-height: 80%;
+    opacity: 0;
+    transform: translate(0, -50%) translateX(-50px);
+    transition: opacity 1.5s ease-out, transform 1.5s ease-out;
+}
+img.loaded {
+    opacity: 1;
+    transform: translate(0, -50%) translateX(0);
+}
+
+/* 언어 토글 컨테이너 - 오른쪽 위에 고정 */
+.language-toggle-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* 스위치 레이블 스타일 */
+.language-toggle {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+}
+
+/* 체크박스 숨기기 */
+.language-toggle input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* 슬라이더 스타일 */
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--kor-color);
+    transition: none;
+    border-radius: 34px;
+}
+
+/* 슬라이더 안의 원 스타일 */
+.slider::before {
+    position: absolute;
+    content: "";
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    left: 4px;
+    bottom: 4px;
+    transition: none;
+    background-color: white;
+}
+
+/* 체크된 상태의 슬라이더 */
+input:checked + .slider {
+    background-color: var(--eng-color);
+}
+
+/* 체크된 상태의 원 */
+input:checked + .slider:before {
+    transform: translateX(40px);
+}
+
+/* 한글/영어 텍스트 스타일 */
+#language-label {
+    margin-top: 5px;
+    font-size: 18px;
+    color: var(--kor-color);
+    transition: none;
+}
+
+
+/* transition을 활성화하는 클래스 */
+.slider.transition-enabled {
+    transition: 0.4s;
+}
+
+.slider.transition-enabled:before {
+    transition: 0.4s;
+}
+
+
+/* #goBackButton {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 10px 20px;
+    background-color: black;
+    color: #555;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+#goBackButton:hover {
+    color: #ccc;
+    border-color: #ccc;
+} */

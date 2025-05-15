@@ -1,0 +1,208 @@
+{
+    "data": [
+      {
+        "ko": "자연은 아주 단순하다. 그래서 아주 아름다운 것이다",
+        "en": "Nature has a great simplicity and therefore a great beauty",
+        "who_ko": "리처드 파인만",
+        "who_en": "Richard P. Feynman",
+        "img": ""
+      },
+      {
+        "ko": "당신이 할 수 있다고 믿으면 이미 반은 이룬 것이다.",
+        "en": "Believe you can and you're halfway there.",
+        "who_ko": "시어도어 루즈벨트",
+        "who_en": "Theodore Roosevelt",
+        "img": ""
+      },
+      {
+        "ko": "당신이 시도하지 않은 기회는 100% 놓친 것이다.",
+        "en": "You miss 100% of the shots you don't take.",
+        "who_ko": "웨인 그레츠키",
+        "who_en": "Wayne Gretzky",
+        "img": ""
+      },
+      {
+        "ko": "인생은 10%는 우리에게 일어나는 일이고, 90%는 우리가 그것에 어떻게 반응하는가이다.",
+        "en": "Life is 10% what happens to us and 90% how we react to it.",
+        "who_ko": "찰스 R. 스윈돌",
+        "who_en": "Charles R. Swindoll",
+        "img": ""
+      },
+      {
+        "ko": "우리가 두려워해야 할 유일한 것은 두려움 그 자체이다.",
+        "en": "The only thing we have to fear is fear itself.",
+        "who_ko": "프랭클린 D. 루스벨트",
+        "who_en": "Franklin D. Roosevelt",
+        "img": ""
+      },
+      {
+        "ko": "항상 태양을 향해 얼굴을 향하게 하라. 그러면 그림자는 당신 뒤로 사라질 것이다.",
+        "en": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+        "who_ko": "월트 휘트먼",
+        "who_en": "Walt Whitman",
+        "img": ""
+      },
+      {
+        "ko": "우리가 지나온 것과 앞으로 올 것이 중요하지 않다. 중요한 것은 우리 안에 있는 것이다.",
+        "en": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "who_ko": "랄프 월도 에머슨",
+        "who_en": "Ralph Waldo Emerson",
+        "img": ""
+      },
+      {
+        "ko": "당신이 할 수 있는 것을, 당신이 가진 것과 있는 곳에서 하라.",
+        "en": "Do what you can, with what you have, where you are.",
+        "who_ko": "시어도어 루즈벨트",
+        "who_en": "Theodore Roosevelt",
+        "img": ""
+      },
+      {
+        "ko": "인생은 당신이 다른 계획을 세우고 있을 때 일어나는 것이다.",
+        "en": "Life is what happens when you're busy making other plans.",
+        "who_ko": "존 레논",
+        "who_en": "John Lennon",
+        "img": ""
+      },
+      {
+        "ko": "미래는 자신의 꿈의 아름다움을 믿는 사람들에게 속한다.",
+        "en": "The future belongs to those who believe in the beauty of their dreams.",
+        "who_ko": "엘리노어 루즈벨트",
+        "who_en": "Eleanor Roosevelt",
+        "img": ""
+      },
+      {
+        "ko": "인생의 목적은 행복해지는 것이 아니다. 유용하고, 존경받고, 자비로우며, 내가 살아간 의미가 있는 삶을 사는 것이다.",
+        "en": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+        "who_ko": "랄프 월도 에머슨",
+        "who_en": "Ralph Waldo Emerson",
+        "img": ""
+      },
+      {
+        "ko": "인생은 한 번뿐이지만, 제대로 살면 한 번이면 충분하다.",
+        "en": "You only live once, but if you do it right, once is enough.",
+        "who_ko": "메이 웨스트",
+        "who_en": "Mae West",
+        "img": ""
+      },
+      {
+        "ko": "인생은 폭풍이 지나가기를 기다리는 것이 아니다. 비 오는 날 춤추는 법을 배우는 것이다.",
+        "en": "Life isn't about waiting for the storm to pass, it's about learning to dance in the rain.",
+        "who_ko": "비비안 그린",
+        "who_en": "Vivian Greene",
+        "img": ""
+      },
+      {
+        "ko": "길이 있을 곳으로 가는 것이 아니라, 길이 없는 곳으로 가서 흔적을 남겨라.",
+        "en": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "who_ko": "랄프 월도 에머슨",
+        "who_en": "Ralph Waldo Emerson",
+        "img": ""
+      },
+      {
+        "ko": "모든 어려움 속에 기회가 숨어 있다.",
+        "en": "In the middle of every difficulty lies opportunity.",
+        "who_ko": "알베르트 아인슈타인",
+        "who_en": "Albert Einstein",
+        "img": ""
+      },
+      {
+        "ko": "항상 불가능해 보이지만, 해내고 나면 가능하다.",
+        "en": "It always seems impossible until it's done.",
+        "who_ko": "넬슨 만델라",
+        "who_en": "Nelson Mandela",
+        "img": ""
+      },
+      {
+        "ko": "당신이 할 수 없는 것을 하라.",
+        "en": "You must do the things you think you cannot do.",
+        "who_ko": "엘리노어 루즈벨트",
+        "who_en": "Eleanor Roosevelt",
+        "img": ""
+      },
+      {
+        "ko": "마음이 모든 것이다. 당신이 생각하는 대로 당신은 된다.",
+        "en": "The mind is everything. What you think you become.",
+        "who_ko": "부처",
+        "who_en": "Buddha",
+        "img": ""
+      },
+      {
+        "ko": "빠르게 가고 싶다면 혼자 가라. 멀리 가고 싶다면 함께 가라.",
+        "en": "If you want to go fast, go alone. If you want to go far, go together.",
+        "who_ko": "아프리카 속담",
+        "who_en": "African Proverb",
+        "img": ""
+      },
+      {
+        "ko": "시계를 보지 말고, 시계가 하는 대로 하라. 계속 나아가라.",
+        "en": "Don't watch the clock; do what it does. Keep going.",
+        "who_ko": "샘 레빈슨",
+        "who_en": "Sam Levenson",
+        "img": ""
+      },
+      {
+        "ko": "우리의 삶은 중요한 것에 대해 침묵하는 순간 끝나기 시작한다.",
+        "en": "Our lives begin to end the day we become silent about things that matter.",
+        "who_ko": "마틴 루터 킹 주니어",
+        "who_en": "Martin Luther King Jr.",
+        "img": ""
+      },
+      {
+        "ko": "결국 우리는 적의 말이 아니라 친구의 침묵을 기억할 것이다.",
+        "en": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        "who_ko": "마틴 루터 킹 주니어",
+        "who_en": "Martin Luther King Jr.",
+        "img": ""
+      },
+      {
+        "ko": "창의력을 다 쓸 수 없다. 더 많이 사용하면 할수록 더 많이 생긴다.",
+        "en": "You can't use up creativity. The more you use, the more you have.",
+        "who_ko": "마야 안젤루",
+        "who_en": "Maya Angelou",
+        "img": ""
+      },
+      {
+        "ko": "모든 것이 더 좋아질 때, 당신은 더 나은 사람이 된다.",
+        "en": "When everything is going right, you are becoming a better person.",
+        "who_ko": "헤르만 헤세",
+        "who_en": "Hermann Hesse",
+        "img": ""
+      },
+      {
+        "ko": "변화는 끝이 아니라 시작이다.",
+        "en": "Change is the end, not the beginning.",
+        "who_ko": "토니 모리슨",
+        "who_en": "Toni Morrison",
+        "img": ""
+      },
+      {
+        "ko": "목표를 세우는 순간, 당신의 꿈이 현실이 될 것이다.",
+        "en": "The moment you set a goal, your dreams will become reality.",
+        "who_ko": "필립 브루크스",
+        "who_en": "Phillip Brooks",
+        "img": ""
+      },
+      {
+        "ko": "우리의 미래는 우리가 하는 선택에 달려 있다.",
+        "en": "Our future is dependent on the choices we make.",
+        "who_ko": "도날드 트럼프",
+        "who_en": "Donald Trump",
+        "img": ""
+      },
+      {
+        "ko": "단 한 번의 실패도 끝이 아니다.",
+        "en": "One failure does not mean the end.",
+        "who_ko": "토마스 에디슨",
+        "who_en": "Thomas Edison",
+        "img": ""
+      },
+      {
+        "ko": "도전 없이는 진정한 성공은 없다.",
+        "en": "Without challenge, there is no true success.",
+        "who_ko": "피터 드러커",
+        "who_en": "Peter Drucker",
+        "img": ""
+      }
+    ]
+  }
+  

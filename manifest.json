@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Quote New Tab",
+    "version": "1.0",
+    "description": "명언을 보여주는 새 탭.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": ["data.json"],
+            "matches": ["<all_urls>"]
+        }
+    ],
+    "permissions": ["storage"]
+}
